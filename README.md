@@ -7,6 +7,9 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Stackoverflow][stack-shield]][stack-url] [![Youtube][yt-shield]][yt-url]
 
+
+I love working with: React, dotnet core, sharepoint online
+
 - 🔭 Currently working on [app for Open Source project matchmaking](https://github.com/Programmers-Only-Group/frontend)
 - 🌱 I’m currently learning [GitLab Handbook for Managers](https://about.gitlab.com/handbook/people-group/learning-and-development/building-high-performing-teams/)
 - 👯 I’m looking to collaborate on React projects
