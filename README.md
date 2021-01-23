@@ -15,6 +15,7 @@ I love working with: React, dotnet core, sharepoint online
 - 👯 I’m looking to collaborate on React projects
 - 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Team Management
 - ⚡ Fun fact: Sharepoint is done entirely in ReactTS (in 2020)
+- Check out my and my [GF](https://github.com/AlicjaDobrzeniecka) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
 
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
