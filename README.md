@@ -10,11 +10,10 @@
 
 I love working with: React, dotnet core, sharepoint online
 
-- 🔭 Currently working on [app for Open Source project matchmaking](https://github.com/Programmers-Only-Group/frontend)
-- 🌱 I’m currently learning [GitLab Handbook for Managers](https://about.gitlab.com/handbook/people-group/learning-and-development/building-high-performing-teams/)
+- 🔭 Currently working on [🐦Bird Alert](https://github.com/Toumash/bird-alert)
+- 🌱 I’m currently learning [Project Tye](https://github.com/dotnet/tye)
 - 👯 I’m looking to collaborate on React projects
-- 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Team Management
-- ⚡ Fun fact: Sharepoint is done entirely in ReactTS (in 2020)
+- 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Docker, Github Actions
 - Check out my and my [GF](https://github.com/AlicjaDobrzeniecka) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
 
 <details>
