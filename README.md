@@ -12,7 +12,7 @@ I love working with: React, dotnet core, sharepoint online
 
 <!-- - 🔭 Currently working on [🐦Bird Alert](https://github.com/Toumash/bird-alert) -->
 - 🌱 I’m currently learning [Dagster](https://dagster.io/) and [NextJs](https://nextjs.org/)
-- 👯 I’m looking to collaborate on React projects
+- 👯 I’m looking for exciting e-commerce sales/productivity boosting projects
 - 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Docker, Github Actions
 - Check out my and my [GF](https://github.com/AlicjaDobrzeniecka) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
 
