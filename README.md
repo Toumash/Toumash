@@ -20,7 +20,6 @@ I love working with: React, dotnet core, sharepoint online
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
   
   [![Github Stats By toumash](https://github-readme-stats.vercel.app/api?username=toumash&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
-  [![Github Langs By toumash](https://github-readme-stats.vercel.app/api/top-langs/?username=toumash&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
   
 ---
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555&color=blue
