@@ -11,7 +11,7 @@
 I love working with: React, .NET 5, NodeJS
 
 <!-- - 🔭 Currently working on [🐦Bird Alert](https://github.com/Toumash/bird-alert) -->
-- 🌱 I’m currently learning NestJs and [NextJs](https://nextjs.org/)
+- 🌱 I’m currently learning NestJs. NextJs is my go-to framework for static content
 - 👯 I’m looking for exciting e-commerce sales/productivity boosting projects
 - 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Docker, Github Actions
 - Check out my and my [GF](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
