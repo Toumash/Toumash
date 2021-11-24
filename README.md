@@ -8,9 +8,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Stackoverflow][stack-shield]][stack-url] [![Youtube][yt-shield]][yt-url]
 
 
-I love working with: React, .NET 5, NodeJS
+I love working with: React, .NET 6, NextJs
 
-<!-- - 🔭 Currently working on [🐦Bird Alert](https://github.com/Toumash/bird-alert) -->
+- 🔭 Currently exploring [Chrome Extensions with Vite](https://github.com/StarkShang/vite-plugin-chrome-extension)
 - 🌱 I’m currently learning NestJs. NextJs is my go-to framework for static content
 - 👯 I’m looking for exciting e-commerce sales/productivity boosting projects
 - 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Docker, Github Actions
