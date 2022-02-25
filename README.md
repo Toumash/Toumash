@@ -8,7 +8,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Stackoverflow][stack-shield]][stack-url] [![Youtube][yt-shield]][yt-url]
 
 
-I love working with: React, .NET 6, NextJs
+I love working with: React, .NET 7, NextJS. Fed up with chrome extension manifest V3 when you need to reload the extension every time...
 
 - 🔭 Currently exploring [Chrome Extensions with Vite](https://github.com/StarkShang/vite-plugin-chrome-extension)
 - 🌱 I’m currently learning NestJs. NextJs is my go-to framework for static content
