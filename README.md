@@ -16,11 +16,14 @@ I love working with: React, .NET 7, NextJS. Fed up with chrome extension manifes
 - 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Docker, Github Actions
 - Check out my and my [GF](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
 
+[♥ Sponsor me](https://www.buymeacoffee.com/toumash)
+
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
   
   [![Github Stats By toumash](https://github-readme-stats.vercel.app/api?username=toumash&hide=prs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]()
   
+
 ---
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555&color=blue
 [linkedin-url]: https://www.linkedin.com/in/tomaszdluski/
