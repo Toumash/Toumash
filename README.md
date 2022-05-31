@@ -7,13 +7,14 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Stackoverflow][stack-shield]][stack-url] [![Youtube][yt-shield]][yt-url]
 
+Im connecting software engineering and consultant role thus improving operations business processes through modern project practices, good tools and best practices that includes fully automated testing, observability and good communication with client.
 
-I love working with: React, .NET 7, NextJS. Fed up with chrome extension manifest V3 when you need to reload the extension every time...
+I love to work with: React, .NET 7, NextJS. 
 
 - 🔭 Currently exploring [Chrome Extensions with Vite](https://github.com/StarkShang/vite-plugin-chrome-extension)
-- 🌱 I’m currently learning NestJs. NextJs is my go-to framework for static content
+- 🌱 I’m currently taking Azure Architect certificate.
 - 👯 I’m looking for exciting e-commerce sales/productivity boosting projects
-- 💬 Ask me about Azure, Sharepoint, React, dotnet core, Networking, Project Management, Docker, Github Actions
+- 💬 Ask me about Azure, Sharepoint, React, .NET 7, Networking, Project Management, Tech Consulting,  Docker, Github Actions
 - Check out my and my [GF](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
 
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
