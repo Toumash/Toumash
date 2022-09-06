@@ -12,7 +12,7 @@ Im connecting software engineering and consultant role thus improving operations
 I love to work with: React, .NET 7, NextJS. 
 
 - 🔭 Currently exploring [Chrome Extensions with Vite](https://github.com/StarkShang/vite-plugin-chrome-extension)
-- 🌱 I’m currently taking Azure Architect certificate.
+- 🌱 I’m currently taking Azure Architect certificate examination.
 - 👯 I’m looking for exciting e-commerce sales/productivity boosting projects
 - 💬 Ask me about Azure, Sharepoint, React, .NET 7, Networking, Project Management, Tech Consulting,  Docker, Github Actions
 - Check out my and my [GF](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
