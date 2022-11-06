@@ -7,20 +7,20 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Stackoverflow][stack-shield]][stack-url] [![Youtube][yt-shield]][yt-url]
 
-Im connecting software engineering and consultant role thus improving operations business processes through modern project practices, good tools and best practices that includes fully automated testing, observability and good communication with client.
+I'm a result-oriented software engineer who improves business processes by leveraging digital document workflows, automatic integrations and modern software project practices and tooling. I'm an senior engineer with experience in management and i've successfully completed 50+ projects in logistics/production/government.
 
-I love to work with: React, .NET 7, NextJS. 
+I love to work with: React, .NET 6. 
 
-- 🔭 Currently exploring [Chrome Extensions with Vite](https://github.com/StarkShang/vite-plugin-chrome-extension)
-- 🌱 I’m currently taking Azure Architect certificate examination.
-- 👯 I’m looking for exciting e-commerce sales/productivity boosting projects
-- 💬 Ask me about Azure, Sharepoint, React, .NET 7, Networking, Project Management, Tech Consulting,  Docker, Github Actions
-- Check out my and my [GF](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA)!
+- 🔭 Currently exploring moving into vite with my chrome extensions (using webpack)
+- 🌱 I’m currently taking Azure Architect certificate examination
+- 🤯 I’m looking for exciting e-commerce projects to move forward
+- 💬 Ask me about optimizing enterprise processes using electronic document workflows or RPA or custom enterprise software.
+- Check out my and my [girlfriend](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where we spread knowledge  with ♥️ for free !
 
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
 
 Most used tech:
- * .NET 6 (i've been on projects using .net framework 2.0 onward)
+ * .NET 6 (i've been on projects using .net framework 2.0 onwards)
  * GitHub Actions
  * Azure DevOps
  * Azure
