@@ -20,7 +20,7 @@ I love to work with: React, .NET 7, NextJS.
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
 
 Most used tech:
- * .NET 6 
+ * .NET 6 (i've been on projects using .net framework 2.0 onward)
  * GitHub Actions
  * Azure DevOps
  * Azure
@@ -31,7 +31,6 @@ Most used tech:
  * Playwright 
  * React 18 + TS
  * VSCode + Rider
- * Heroku
 
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
