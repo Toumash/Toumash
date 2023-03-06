@@ -9,13 +9,13 @@
 
 I'm a result-oriented software engineer who improves business processes by leveraging digital document workflows, automatic integrations and modern software project practices and tooling. I'm an senior engineer with experience in management and i've successfully completed 50+ projects in logistics/production/government.
 
-I love to work with: React, .NET 6. 
+I love to work with: React, .NET 7
 
 - 🔭 Currently exploring moving into vite with my chrome extensions (using webpack)
 - 🌱 I’m currently taking Azure Architect certificate examination
 - 🤯 I’m looking for exciting e-commerce projects to move forward
 - 💬 Ask me about optimizing enterprise processes using electronic document workflows or RPA or custom enterprise software.
-- Check out my and my [girlfriend](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where we spread knowledge  with ♥️ for free !
+- Check out my and my [ex](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where we spread knowledge  with ♥️ for free !
 
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
 
