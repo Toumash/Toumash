@@ -11,10 +11,10 @@ I'm a result-oriented software engineer who improves business processes by lever
 
 I love to work with: React, .NET 7
 
-- 🔭 Currently exploring moving into vite with my chrome extensions (using webpack)
+- 🔭 Finally moved to 100% vite development, even for chrome extensions
 - 🌱 I’m currently taking Azure Architect certificate examination
 - 🤯 I’m looking for exciting e-commerce projects to move forward
-- 💬 Ask me about optimizing enterprise processes using electronic document workflows or RPA or custom enterprise software.
+- 💬 Ask me about integrating systems, writing chrome extension, writing DDD enterprise apps, microservices patterns, devops
 - Check out my and my [ex](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where we spread knowledge  with ♥️ for free !
 
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
