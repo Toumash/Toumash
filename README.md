@@ -15,7 +15,7 @@ I love to work with: React, .NET 7
 - 🌱 I’m currently taking Azure Architect certificate examination
 - 🤯 I’m looking for exciting e-commerce projects to move forward
 - 💬 Ask me about integrating systems, writing chrome extension, writing DDD enterprise apps, microservices patterns, devops
-- Check out my and my [ex](https://github.com/efemeryds) work on [our yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where we spread knowledge  with ♥️ for free !
+- Check out my work on [a yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where im spreading knowledge with ♥️ for free !
 
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
 
