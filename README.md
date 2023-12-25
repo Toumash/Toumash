@@ -20,7 +20,7 @@ I love to work with: React, .NET 7
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
 
 Most used tech:
- * .NET 7 (i've been on projects using .net framework 2.0 onwards)
+ * .NET 8 (i've been on projects using .net framework 2.0 onwards)
  * GitHub Actions
  * Azure DevOps
  * Azure
