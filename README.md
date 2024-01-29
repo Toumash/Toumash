@@ -31,6 +31,7 @@ Most used tech:
  * Playwright 
  * React 18 + TS + Vite
  * VSCode + Rider
+ * (new) k8s on ovh public cloud <3
 
 <details>
   <summary> <b> Statistics about my profile </b> <i> (Click to expand!)</i> </summary>
