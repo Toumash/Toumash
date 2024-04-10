@@ -8,6 +8,7 @@
 [![X](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/TomaszDluski) [![LinkedIn][linkedin-shield]][linkedin-url] [![Stackoverflow][stack-shield]][stack-url] [![Youtube][yt-shield]][yt-url]
 
 I'm a result-oriented software engineer who improves business processes by leveraging digital document workflows, automatic integrations and modern software project practices and tooling. I'm an senior engineer with experience in management and i've successfully completed 50+ projects in logistics/production/government.
+I've worked with polish public sector, biggest 4PL providers in the world, polish banks, polish ecommerce, european healthcare.
 
 I love to work with: React, .NET 8
 
