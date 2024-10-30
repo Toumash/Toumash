@@ -15,7 +15,7 @@ I love to work with: React, .NET 8
 - 🔭 Finally moved to 100% vite development, also for [chrome extensions - crxjs](https://github.com/crxjs/chrome-extension-tools)
 - 🌱 I'm currently taking Azure Architect certificate examination
 - 🤯 I'm currently putting all my energy into Allegro, Allegro Ads
-- 💬 Ask me about integrating systems, writing chrome extension, writing DDD enterprise apps, microservices patterns, devops, k8s app deployments, observability
+- 💬 Ask me about integrations, browser extension, DDD, microservices, devops, kubernetes, observability, stripe, cloudflare
 - Check out my work on [a yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where im spreading knowledge with ♥️ for free !
 
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
