@@ -13,8 +13,7 @@ I've worked with biggest 4PL providers in the world, EU healthcare, polish publi
 I love to work with: React, .NET 8
 
 - 🔭 Finally moved to 100% vite development, also for [chrome extensions - crxjs](https://github.com/crxjs/chrome-extension-tools)
-- 🌱 I'm currently taking Azure Architect certificate examination
-- 🤯 I'm currently putting all my energy into Allegro, Allegro Ads
+- 🤯 I'm currently putting all my energy into ecommerce as a co-founder of [PanelPro for Allegro Ads](https://pryzmat.media/rozszerzenie-allegro-ads/), co-founder of [sellersk.it](https://sellersk.it) for Allegro
 - 💬 Ask me about integrations, browser extension, DDD, microservices, devops, kubernetes, observability, stripe, cloudflare
 - Check out my work on [a yt channel](https://www.youtube.com/channel/UCXrPqxHd-1y_oAYfv-qCnjA) where im spreading knowledge with ♥️ for free !
 
