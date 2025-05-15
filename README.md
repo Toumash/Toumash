@@ -22,6 +22,7 @@ Most used tech:
  * azure (AppService, ACI, SQL, AppInsights)
  * playwright
  * vscode + rider
+ * github copilot + chatgpt
  
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555&color=blue
 [linkedin-url]: https://www.linkedin.com/in/tomaszdluski/
