@@ -15,14 +15,14 @@ I love to work with: React, .NET 9
 [♥ Sponsor me](https://www.buymeacoffee.com/toumash)
 
 Most used tech:
- * .net 9, ec core, hangfire - i've been on projects based on .net framework 2.0 onwards including WCF
+ * .net 9, ef core, hangfire - i've been on projects based on .net framework 2.0 onwards including WCF
  * react 18 + ts + vite, angular
- * GitHub Actions / Azure DevOps
+ * GitHub Actions / Azure DevOps / Octopus Deploy
  * k8s / opentelemetry / elk stack
  * azure (AppService, ACI, SQL, AppInsights)
- * playwright
+ * playwright - typescript, dotnet
  * vscode + rider
- * github copilot + chatgpt
+ * claude 4
  
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555&color=blue
 [linkedin-url]: https://www.linkedin.com/in/tomaszdluski/
